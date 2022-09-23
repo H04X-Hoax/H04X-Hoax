@@ -11,8 +11,6 @@ Professional Cyber Security Expert and full time stack developer
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=H04X-Hoax&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=H04X-Hoax&icon=0&color=0)](https://visitcount.itsvg.in)
