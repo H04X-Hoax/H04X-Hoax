@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various open-source projects.<br>🌱 I’m learning **Typescript** and **C**.<br>👯 I’m looking to collaborate on projects that involve **AI**, **Cybersecurity**, and **Web Development**.<br>💬 Ask me about anything, I'm happy to help!
+🔭 I’m currently working on nothing.<br>🌱 I’m learning **Typescript** and **C**.<br>👯 I’m looking to collaborate on projects that involve **AI**, **Cybersecurity**, and **Web Development**.<br>💬 Ask me about anything, I'm happy to help!
 
 
 # 💻 Tech Stack:
