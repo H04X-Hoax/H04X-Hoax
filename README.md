@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h04x-hoax&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="h04x-hoax's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H04X-Hoax&theme=dark&hide_border=true" alt="h04x-hoax's GitHub stats"/>
 </p>
 
 ---
